@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
 <div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
@@ -12,9 +9,7 @@
 [![](https://img.shields.io/badge/-odieSDET-007bb5?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com)
 [![](https://img.shields.io/badge/-odieSDET-ff0000?logo=youtube&style=flat-square&logoColor=white)](https://youtube.com)  
 </div> 
-</head>
-<body>
-<div align="left">
+
 
 🔭 I’m currently working as                      
    . Fullstack Developer FREELANCE                       
@@ -34,9 +29,6 @@
    . Ethical Hack 212
    . W & B Box Penetration Tester
   
-  </div>  
-</body>
-</html>
 
 
 <!--
