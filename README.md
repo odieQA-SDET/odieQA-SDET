@@ -39,6 +39,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <br/>  
+<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/golang/golang.png" />
+<br/>  
 
 #### Frameworks/Platforms:
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
@@ -46,9 +48,7 @@
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//javascript/javascript.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/golang/golang.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png">
 
 <br/> 
@@ -72,14 +72,14 @@
 #### Stats:  
 
 <!-- thropy -->
-<a href="https://rifqirosyidi.github.io">
+<a href="https://odieQA-SDET.github.io">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=rifqirosyidi&column=7&theme=onedark"/>
     </p>
 </a>
 
 <!-- status codes -->
-<a align="center" href="https://rifqirosyidi.github.io">
+<a align="center" href="https://odieQA-SDET.github.io">
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rifqirosyidi&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqirosyidi&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
     </p>
