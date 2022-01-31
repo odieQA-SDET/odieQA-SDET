@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm Odie, I'm a Sotware Development Tester and Fullstack Developer. Check <a href="#">ℹ️</a> For More Information.</p>
+<p>Hi, I'm Odie, I'm a Software Development Engineer in Test and Fullstack Developer. Check <a href="#">ℹ️</a> For More Information.</p>
 
 
 [![](https://img.shields.io/badge/-odieSDET-1da1f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com)
@@ -13,12 +13,12 @@
 
 🔭 I’m currently working as                      
    . Fullstack Developer FREELANCE                       
-   . Software Development Tester FREELANCE               
+   . Software Development Engineer in Test FREELANCE               
    . Peneration Tester FREELANCE                         
 
 🌱 I’m currently learning and exploring 
 
-     Software Development Tester      
+     Software Development Engineer in Test      
    . JMeter    . Cypress              
    . Katalon   . TestProject
    . Appium    . TestProject
