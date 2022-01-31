@@ -22,15 +22,15 @@
    . Peneration Tester FREELANCE                         
 
 🌱 I’m currently learning and exploring  
-   + Software Development Tester      
+   Software Development Tester      
    . JMeter    . Cypress              
    . Katalon   . TestProject
    
-   + Fullstack Developer 
+   Fullstack Developer 
    . MERN        . Flutter . React
    . Blockchain  . Golang  . swift
    
-   + Peneration Tester FREELANCE
+   Peneration Tester FREELANCE
    . Ethical Hack 212
    . W & B Box Penetration Tester
   
