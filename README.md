@@ -20,7 +20,22 @@
   . Fullstack Developer FREELANCE                       + Software Development Tester      + Fullstack Developer                + Peneration Tester FREELANCE
   . Software Development Tester FREELANCE               . JMeter    . Cypress              . MERN        . Flutter . React      . Ethical Hack 212
   . Peneration Tester FREELANCE                         . Katalon   . TestProject          . Blockchain  . Golang  . swift      . W & B Box Penetration Tester
-</div>  
+
+  
+🌱 I’m currently learning and exploring  
+   + Software Development Tester      
+   . JMeter    . Cypress              
+   . Katalon   . TestProject
+   
+   + Fullstack Developer 
+   . MERN        . Flutter . React
+   . Blockchain  . Golang  . swift
+   
+  + Peneration Tester FREELANCE
+  . Ethical Hack 212
+  . W & B Box Penetration Tester
+  
+  </div>  
 </body>
 </html>
 
