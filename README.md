@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/badge/-odieSDET-1da1f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com)
 [![](https://img.shields.io/badge/-odieSDET-c32aa3?logo=instagram&style=flat-square&logoColor=white)](https://instagram.com) 
-[![](https://img.shields.io/badge/-odieSDET-007bb5?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com)
+[![](https://img.shields.io/badge/-odieSDET-007bb5?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/ahmad-dodi-yandra-9424b4a9/)
 [![](https://img.shields.io/badge/-odieSDET-ff0000?logo=youtube&style=flat-square&logoColor=white)](https://youtube.com)  
 </div> 
 
@@ -16,7 +16,8 @@
    . Software Development Tester FREELANCE               
    . Peneration Tester FREELANCE                         
 
-🌱 I’m currently learning and exploring  
+🌱 I’m currently learning and exploring 
+
      Software Development Tester      
    . JMeter    . Cypress              
    . Katalon   . TestProject
@@ -24,7 +25,7 @@
    
      Fullstack Developer 
    . MERN        . Flutter 
-   . Blockchain  . Golang  . swift   
+   . Blockchain  . Golang  
    . React       . Vue 
    . swift  
    
