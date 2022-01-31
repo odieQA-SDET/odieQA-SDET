@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/badge/-odieSDET-1fa2f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com)
 [![](https://img.shields.io/badge/-odieSDET-a91b9c?logo=instagram&style=flat-square&logoColor=white)](https://instagram.com)
-[![](https://img.shields.io/badge/-odieSDET-#ff0000?logo=youtube&style=flat-square&logoColor=white)](https://youtube.com)  
+[![](https://img.shields.io/badge/-odieSDET-ff0000?logo=youtube&style=flat-square&logoColor=white)](https://youtube.com)  
 </div>
 
 <!--
