@@ -8,15 +8,15 @@
 [![](https://img.shields.io/badge/-odieSDET-c32aa3?logo=instagram&style=flat-square&logoColor=white)](https://instagram.com) 
 [![](https://img.shields.io/badge/-odieSDET-007bb5?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com)
 [![](https://img.shields.io/badge/-odieSDET-ff0000?logo=youtube&style=flat-square&logoColor=white)](https://youtube.com)  
-</div>
+</div> 
 
-
+<div align="left">
 
 - 🔭 I’m currently working as                       🌱 I’m currently learning and exploring
   . Fullstack Developer FREELANCE                       + Software Development Tester      + Fullstack Developer                + Peneration Tester FREELANCE
   . Software Development Tester FREELANCE               . JMeter    . Cypress              . MERN        . Flutter . React      . Ethical Hack 212
   . Peneration Tester FREELANCE                         . Katalon   . TestProject          . Blockchain  . Golang  . swift      . W & B Box Penetration Tester
-                                                        . Appium    
+</div>  
 
 
 
