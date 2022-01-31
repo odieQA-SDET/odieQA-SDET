@@ -16,10 +16,10 @@
 <body>
 <div align="left">
 
-- 🔭 I’m currently working as                       🌱 I’m currently learning and exploring
-  . Fullstack Developer FREELANCE                       + Software Development Tester      + Fullstack Developer                + Peneration Tester FREELANCE
-  . Software Development Tester FREELANCE               . JMeter    . Cypress              . MERN        . Flutter . React      . Ethical Hack 212
-  . Peneration Tester FREELANCE                         . Katalon   . TestProject          . Blockchain  . Golang  . swift      . W & B Box Penetration Tester
+- 🔭 I’m currently working as                      
+  . Fullstack Developer FREELANCE                       
+  . Software Development Tester FREELANCE               
+  . Peneration Tester FREELANCE                         
 
   
 🌱 I’m currently learning and exploring  
