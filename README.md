@@ -4,7 +4,7 @@
 <p>Hi, I'm Odie, I'm a Sotware Development Tester. Check <a href="#">ℹ️</a> For More Information.</p>
 
 
-[![](https://img.shields.io/badge/-rief014-1fa2f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com)
+[![](https://img.shields.io/badge/-odieSDET-1fa2f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com)
 </div>
 
 <!--
