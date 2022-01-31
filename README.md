@@ -17,9 +17,9 @@
 <div align="left">
 
 🔭 I’m currently working as                      
-  . Fullstack Developer FREELANCE                       
-  . Software Development Tester FREELANCE               
-  . Peneration Tester FREELANCE                         
+   . Fullstack Developer FREELANCE                       
+   . Software Development Tester FREELANCE               
+   . Peneration Tester FREELANCE                         
 
 🌱 I’m currently learning and exploring  
    + Software Development Tester      
