@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
 <div align="center">
 <h3>Hi there 👋,</h3>
@@ -11,7 +13,7 @@
 [![](https://img.shields.io/badge/-odieSDET-ff0000?logo=youtube&style=flat-square&logoColor=white)](https://youtube.com)  
 </div> 
 </head>
-
+<body>
 <div align="left">
 
 - 🔭 I’m currently working as                       🌱 I’m currently learning and exploring
@@ -19,7 +21,8 @@
   . Software Development Tester FREELANCE               . JMeter    . Cypress              . MERN        . Flutter . React      . Ethical Hack 212
   . Peneration Tester FREELANCE                         . Katalon   . TestProject          . Blockchain  . Golang  . swift      . W & B Box Penetration Tester
 </div>  
-
+</body>
+</html>
 
 
 <!--
