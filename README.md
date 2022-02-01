@@ -70,16 +70,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Intelijj IDE" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/intelijjide/intelijjide.png" />
-<img align="left" alt="Katalon" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/katalon/katalon.png" />
-<img align="left" alt="TestProject" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/testproject/testproject.png" />
-<img align="left" alt="Cypress" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cypress/cypress.png" />
-<img align="left" alt="Postman" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/postman/postman.png" />
-<img align="left" alt="Agile" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/agile/agile.png" />
-<img align="left" alt="Scrum" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/scrum/scrum.png" />
-<img align="left" alt="TestRail" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/testrail/testrail.png" />
-<img align="left" alt="Jira" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/jira/jira.png" />
-<br/ >   
+<br/ >  
 
 
 #### Stats:  
@@ -113,4 +104,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img align="left" alt="Intelijj IDE" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/intelijjide/intelijjide.png" />
+<img align="left" alt="Katalon" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/katalon/katalon.png" />
+<img align="left" alt="TestProject" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/testproject/testproject.png" />
+<img align="left" alt="Cypress" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cypress/cypress.png" />
+<img align="left" alt="Postman" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/postman/postman.png" />
+<img align="left" alt="Agile" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/agile/agile.png" />
+<img align="left" alt="Scrum" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/scrum/scrum.png" />
+<img align="left" alt="TestRail" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/testrail/testrail.png" />
+<img align="left" alt="Jira" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/jira/jira.png" />
+
 -->
