@@ -14,7 +14,7 @@
 🔭 I’m currently working as                      
    . Fullstack Developer FREELANCE                       
    . Software Development Engineer in Test FREELANCE               
-   . Peneration Tester FREELANCE                         
+   . Penetration Tester FREELANCE                         
 
 🌱 I’m currently learning and exploring 
 
