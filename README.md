@@ -21,7 +21,8 @@
      Software Development Engineer in Test      
    . JMeter    . Cypress              
    . Katalon   . TestProject
-   . Appium    . TestProject
+   . Appium    . Jenkins
+   . Postman   
    
      Fullstack Developer 
    . MERN        . Flutter 
