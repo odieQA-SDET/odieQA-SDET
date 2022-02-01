@@ -2,7 +2,8 @@
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
 <p>Hi, I'm Odie, I'm a Software Development Engineer in Test and Fullstack Developer. Check <a href="#">ℹ️</a> For More Information.</p>
-<p>Glad To See U Here Beties!</p> ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<p>Glad To See U Here!</p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)   
 
 [![](https://img.shields.io/badge/-odieSDET-1da1f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com)
 [![](https://img.shields.io/badge/-odieSDET-c32aa3?logo=instagram&style=flat-square&logoColor=white)](https://instagram.com) 
@@ -34,7 +35,7 @@
    . W & B Box Penetration Tester
    . Grey Box Penetration Tester
 
-- 👯 I’m looking to collaborate on based R&D, Project and Mentoring 
+- 👯 I’m looking to collaborate on R&D, based Project, freelance and Mentoring 
 - 😄 Ask me anything. I’m happy to help
 
 #### Languages:
