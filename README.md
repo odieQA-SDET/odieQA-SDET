@@ -29,7 +29,7 @@
    . React       . Vue 
    . swift       . Python
    
-     Peneration Tester
+     Penetration Tester
    . Ethical Hack 212
    . W & B Box Penetration Tester
    
