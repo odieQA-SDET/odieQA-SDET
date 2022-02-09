@@ -4,6 +4,7 @@
 <p>Hi, I'm Odie, I'm a Software Development Engineer in Test and Fullstack Developer. Check <a href="#">ℹ️</a> For More Information.</p>
 <p>Glad To See U Here!</p>
 
+Some of Them is processing to open media learning of technology   
 [![](https://img.shields.io/badge/-odieSDET-1da1f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com)
 [![](https://img.shields.io/badge/-odieSDET-c32aa3?logo=instagram&style=flat-square&logoColor=white)](https://instagram.com) 
 [![](https://img.shields.io/badge/-odieSDET-007bb5?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/ahmad-dodi-yandra-9424b4a9/)
