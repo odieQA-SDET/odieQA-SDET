@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm Odie, I'm a Software Development Engineer in Test and Fullstack Developer. Check <a href="#">ℹ️</a> For More Information.</p>
+<p>Hi, I'm Odie, I'm a Quality Assurance Software Development Engineer in Test and Fullstack Developer. Check <a href="#">ℹ️</a> For More Information.</p>
 <p>Glad To See U Here!</p>
 
 Some of Them is processing to open media learning of technology   
