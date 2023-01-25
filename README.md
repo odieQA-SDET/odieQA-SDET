@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm Odie, I'm a Quality Assurance Software Development Engineer in Test and Fullstack Developer. Check <a href="#">ℹ️</a> For More Information.</p>
+<p>Hi, I'm Odie, I'm a Fullstack Quality Assurance Engineer and Fullstack Developer. Check <a href="#">ℹ️</a> For More Information.</p>
 <p>Glad To See U Here!</p>
 
 Some of Them is processing to open media learning of technology   
@@ -13,26 +13,27 @@ Some of Them is processing to open media learning of technology
 
 
 🔭 I’m currently working as                      
-   . Fullstack Developer FREELANCE                       
-   . Software Development Engineer in Test FREELANCE               
-   . Penetration Tester FREELANCE                         
+   . Software Development Engineer in Test FREELANCE
+   . Fullstack Developer FREELANCE                                  
+   . Penetration Tester FREELANCE 
+   . DevOps with Cloud Computing                      
 
 🌱 I’m currently learning and exploring 
 
      Software Development Engineer in Test      
    . JMeter    . Cypress              
    . Katalon   . TestProject
-   . Appium    . Jenkins
-   . Postman   
+   . Appium    . Roboframework
+   . Postman   . Jenkins
    
      Fullstack Developer 
    . MERN        . Flutter 
    . Blockchain  . Golang  
    . React       . Vue 
-   . swift       . Python
+   . Laravel     . Python
    
      Penetration Tester
-   . Ethical Hack 212
+   . Ethical Hack 101
    . W & B Box Penetration Tester
    . Grey Box Penetration Tester
 
