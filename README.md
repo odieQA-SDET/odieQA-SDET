@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm Odie, I'm a Fullstack Quality Assurance Engineer and Fullstack Developer. Check <a href="#">ℹ️</a> For More Information.</p>
+<p>Hi, I'm Odie, I'm a Software Engineer in Fullstack Quality Assurance Engineer and Fullstack Developer. Check <a href="#">ℹ️</a> For More Information.</p>
 <p>Glad To See U Here!</p>
 
 Some of Them is processing to open media learning of technology   
@@ -13,10 +13,10 @@ Some of Them is processing to open media learning of technology
 
 
 🔭 I’m currently working as                      
-   . Software Development Engineer in Test FREELANCE
-   . Fullstack Developer FREELANCE                                  
-   . Penetration Tester FREELANCE 
-   . DevOps with Cloud Computing                      
+   . Software Development Engineer in Test
+   . Fullstack Developer                                  
+   . Penetration Tester
+   . DevOps with Multi Cloud Computing Provider (AWS, CGP, AZURE)                     
 
 🌱 I’m currently learning and exploring 
 
@@ -24,7 +24,8 @@ Some of Them is processing to open media learning of technology
    . JMeter    . Cypress              
    . Katalon   . TestProject
    . Appium    . Roboframework
-   . Postman   . Jenkins
+   . Postman   . CI/CD: Gitlab, Github, circle ci, Jenkins
+   . DevOps    . Playwright
    
      Fullstack Developer 
    . MERN        . Flutter 
